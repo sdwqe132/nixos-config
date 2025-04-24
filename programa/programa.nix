@@ -8,6 +8,7 @@
 	qbittorrent
 	libreoffice-qt6-fresh
 	#Утилиты
+	cava
 	appimage-run
 	w3m
 	git
